@@ -1,3 +1,3 @@
 # Personal-Website
 My Personal Website
-Open index.html
+# Open index.html
