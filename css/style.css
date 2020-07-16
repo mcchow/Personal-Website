@@ -1,0 +1,97 @@
+header{
+    color:royalblue;
+    background: black;
+    width: 100%;
+}
+
+#topmenu li{
+    display: inline;
+    margin: 0;
+}
+
+body{
+    background-image: url(top_background.png);
+}
+
+#container {
+    position:relative;
+}
+
+h3{
+    color: white;
+    text-decoration: none;
+    font-weight: 550;
+    height: 20px;
+    margin: 0;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+#about_me{
+    background-color: transparent;
+    display: relative;
+    left: 50px;
+}
+
+#my_head_img {
+    left: 50px;
+    top: 50px;
+    border-radius: 50%;
+}
+
+#topmenu li a{
+    color: azure;
+    text-decoration: none;
+    font-weight: 550;
+    height: 30px;
+    text-transform: uppercase;
+    padding: 6px;
+    margin: 0;
+}
+
+
+
+.subtitle{
+    color: #fff;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 6px;
+}
+
+#topmenu li a:hover{
+    color: black;
+    background-color: darkkhaki;
+    padding: 6px;
+}
+
+#topmenu{
+    text-align: center;
+    background: black;
+    height: 29px;
+}
+
+#welcomeimg{
+    width: 100%;
+    background: black;
+}
+.wrapper{
+    width: 980px;
+    margin: 0 auto;
+    background: black;
+    color: white;
+}
+
+#topmenu ul{
+    margin: 0;
+    padding: 6px;
+}
